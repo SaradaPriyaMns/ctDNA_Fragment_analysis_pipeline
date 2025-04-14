@@ -5,7 +5,7 @@
 #SBATCH --time=01:00:00
 #SBATCH --mem=8G
 #SBATCH --cpus-per-task=4
-#SBATCH --mail-user=your_email@domain.com
+#SBATCH --mail-user=n.mandala@northeastern.edu
 #SBATCH --mail-type=END,FAIL
 
 module load python/3.8.1
