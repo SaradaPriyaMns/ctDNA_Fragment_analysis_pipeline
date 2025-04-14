@@ -28,7 +28,7 @@ This high-throughput and reproducible pipeline performs end-to-end analysis of c
 ### Fragment Size Distribution
 
 <p align="center">
-  <img src="plots/SRR5483084_fragment_plot.png" width="500">
+  <img src="plots/variant_summary_plot.png" width="500">
 </p>
 
 ### Variant Summary Table
