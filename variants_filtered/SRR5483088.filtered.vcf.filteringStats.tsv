@@ -1,0 +1,37 @@
+#<METADATA>Ln prior of deletion of length 10=-20.72326583694641
+#<METADATA>Ln prior of deletion of length 9=-20.72326583694641
+#<METADATA>Ln prior of deletion of length 8=-20.72326583694641
+#<METADATA>Ln prior of deletion of length 7=-11.11194030688377
+#<METADATA>Ln prior of deletion of length 6=-20.72326583694641
+#<METADATA>Ln prior of deletion of length 5=-11.805087487443716
+#<METADATA>Ln prior of deletion of length 4=-11.805087487443716
+#<METADATA>Ln prior of deletion of length 3=-10.195649575009615
+#<METADATA>Ln prior of deletion of length 2=-10.195649575009615
+#<METADATA>Ln prior of deletion of length 1=-11.805087487443716
+#<METADATA>Ln prior of SNV=-5.454201770728976
+#<METADATA>Ln prior of insertion of length 1=-9.72564594576388
+#<METADATA>Ln prior of insertion of length 2=-11.805087487443716
+#<METADATA>Ln prior of insertion of length 3=-9.240138129982178
+#<METADATA>Ln prior of insertion of length 4=-9.240138129982178
+#<METADATA>Ln prior of insertion of length 5=-9.320180837655714
+#<METADATA>Ln prior of insertion of length 6=-9.166030157828457
+#<METADATA>Ln prior of insertion of length 7=-7.556592245394357
+#<METADATA>Ln prior of insertion of length 8=-9.097037286341505
+#<METADATA>Ln prior of insertion of length 9=-8.221568548987605
+#<METADATA>Ln prior of insertion of length 10=-9.097037286341505
+#<METADATA>High-AF beta-binomial cluster=weight = 0.0183, alpha = 9.83, beta = 2.06
+#<METADATA>Background beta-binomial cluster=weight = 0.0782, alpha = 0.91, beta = 2.53
+#<METADATA>Binomial cluster 1=weight = 0.8463, mean = 0.990
+#<METADATA>Binomial cluster 1=weight = 0.0596, mean = 0.802
+#<METADATA>Binomial cluster 1=weight = 0.0501, mean = 0.366
+#<METADATA>Binomial cluster 1=weight = 0.0352, mean = 0.099
+#<METADATA>Binomial cluster 1=weight = 0.0081, mean = 0.008
+#<METADATA>threshold=0.5
+#<METADATA>fdr=0.044
+#<METADATA>sensitivity=0.987
+filter	FP	FDR	FN	FNR
+weak_evidence	44.85	0.04	13.99	0.01
+strand_bias	0.69	0.0	0.05	0.0
+slippage	0.15	0.0	0.05	0.0
+haplotype	4.51	0.0	0.28	0.0
+germline	6.16	0.0	0.24	0.0
