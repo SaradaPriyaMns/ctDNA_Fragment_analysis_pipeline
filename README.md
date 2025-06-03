@@ -1,6 +1,6 @@
 # ctDNA_Fragment_analysis_pipeline
 
-This high-throughput and reproducible pipeline performs end-to-end analysis of cfDNA sequencing data. It includes alignment, fragment size profiling, in silico selection (90–150 bp), variant calling using GATK Mutect2, and visualization.
+This high-throughput and reproducible pipeline performs end-to-end analysis of ctDNA sequencing data. It includes alignment, fragment size profiling, in silico selection (90–150 bp), variant calling using GATK Mutect2, and visualization.
 
 ## ⚙️ Key Features
 
